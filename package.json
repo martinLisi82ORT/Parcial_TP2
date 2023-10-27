@@ -10,7 +10,7 @@
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Martin Lisi 21D",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
